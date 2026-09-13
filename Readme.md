@@ -16,3 +16,15 @@ This project uses a simple **Linear Regression** model to predict a student's ma
 It's a beginner-friendly ML project that walks through the complete workflow: building a dataset, training a model, evaluating it, and using it to make live predictions from user input.
  
 ---
+
+## 🧠 What It Predicts
+ 
+| Feature | Description |
+|---|---|
+| 📖 Study Hours | Number of hours the student spends studying per day |
+| 😴 Sleep Time | Number of hours the student sleeps per day |
+| 🏫 Attendance | Attendance percentage in class |
+ 
+**➡️ Output:** Predicted marks out of 100
+ 
+---
